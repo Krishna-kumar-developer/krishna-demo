@@ -1,4 +1,4 @@
 # krishna-demo
 This is my first Repository 
 <br>
-author-krishna
+author-krishna(krishna developer)
